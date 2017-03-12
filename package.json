@@ -1,0 +1,42 @@
+{
+  "name": "ping-pong-ember",
+  "version": "1.0.0",
+  "description": "ping pong using ember and node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elmunoz42/npm-test.git"
+  },
+  "keywords": [
+    "test",
+    "Epicodus",
+    "javascrip",
+    "week",
+    "1"
+  ],
+  "author": "Carlos Munoz Kampff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elmunoz42/npm-test/issues"
+  },
+  "homepage": "https://github.com/elmunoz42/npm-test#readme",
+  "devDependencies": {
+    "browserify": "^14.1.0",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-uglify": "^2.1.0",
+    "gulp-util": "^3.0.8",
+    "jshint": "^2.9.4",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "browserify": "^14.1.0",
+    "gulp": "^3.9.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
